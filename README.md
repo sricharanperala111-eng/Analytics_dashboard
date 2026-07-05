@@ -34,13 +34,5 @@ A sample file is included at `sample-data/sales.csv` — drag it into the upload
 |--------|------------------------|------------------------------------------------|
 | POST   | /api/analysis/upload    | Upload a CSV (multipart `file`), get back stats |
 
-## Resume bullet point ideas
-- Built a full-stack analytics dashboard that ingests arbitrary CSV files, auto-detects column types, and computes summary statistics and category breakdowns, visualized with interactive charts.
-- Designed a backend CSV-parsing and aggregation service in Java capable of handling untyped tabular data without a predefined schema.
 
-## Ideas to extend further (good for interview talking points)
-- Persist uploaded datasets (PostgreSQL) so users can revisit past analyses
-- Add support for Excel (.xlsx) uploads using Apache POI
-- Add more chart types (line chart for time-series columns, filtering by column)
-- Add basic anomaly detection (e.g., flag outliers using z-score) — ties directly into a "risk analytics" narrative
-- Add user accounts so each user has their own upload history
+
