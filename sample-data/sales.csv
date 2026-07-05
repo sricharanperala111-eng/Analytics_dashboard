@@ -1,0 +1,17 @@
+Region,Product,UnitsSold,Revenue
+North,Laptop,120,95000
+South,Laptop,80,63000
+East,Laptop,60,47500
+West,Laptop,45,35600
+North,Phone,200,60000
+South,Phone,150,45200
+East,Phone,90,27000
+West,Phone,110,33200
+North,Tablet,70,21000
+South,Tablet,55,16500
+East,Tablet,40,12000
+West,Tablet,65,19500
+North,Monitor,30,9000
+South,Monitor,25,7500
+East,Monitor,20,6000
+West,Monitor,15,4500
